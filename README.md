@@ -12,4 +12,6 @@ copy everthing on that page
 then past it in the console,
 **Hit enter/return**
 
-You'r done!
+Your done!
+
+###### By Preston Allred
