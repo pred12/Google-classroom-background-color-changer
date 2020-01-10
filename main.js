@@ -1,5 +1,5 @@
 //Just hit Command/Ctrl + A this will not effect it
-
+//If you want more more/less colors or more/less time between colors please email me! (123097@usd230.org)
 const color = [
   "AliceBlue",
   "AntiqueWhite",
