@@ -165,5 +165,6 @@ class colorC{
     }
 }
 const cC = new colorC;
-
+//Starts the color changing
 setInterval(cC.change, 2000);
+//By Preston Allred
