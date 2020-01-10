@@ -1,7 +1,8 @@
 # Google-classroom-background-color-changer
 Instructions!
 First,
-Go to google classroom
+Go to google classroom,
+Then click on one of your classes (It will not be resticted to that class)
 
 right click and go to inspect element,
 they navagate to the "console" tab
