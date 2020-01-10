@@ -1,4 +1,4 @@
-//Past bellow 
+//Just hit Command/Ctrl + A this will not effect it
 
 const color = [
   "AliceBlue",
