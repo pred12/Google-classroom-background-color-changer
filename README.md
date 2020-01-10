@@ -7,7 +7,7 @@ right click and go to inspect element,
 they navagate to the "**console tab**" Right by "**Element**."
 
 ###### Then,
-Go to the file [Main.js](main.js) (* *above ^^^* *), open it
+Go to the file [Main.js](main.js), open it
 copy everthing on that page
 then past it in the console,
 **Hit enter/return**
