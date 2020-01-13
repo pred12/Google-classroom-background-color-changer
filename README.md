@@ -28,6 +28,16 @@ document.querySelector("body").style.backgroundColor = "coloryouwant";
 ```
 **MUST BE A CSS COLOR!** (Google it if you don't know what it is)
 
+##### Questions
+
+"Can I put a image?",
+yes you can but it is really hard to get the image throught inspect element or through file path (file path ant really work)
+I have tried and still am so maybe one day!
+
+"I get an error that says 'color is not defined' (or somthing like that)",
+That mean you have aready copy pasted the code, (or the color varable) two thing to do,
+  * refresh the page and past all the code again
+  * Delete the color varable out before you push enter 
 
 Feel free to shair this with anyone!
 Just don't say clam it as your own
