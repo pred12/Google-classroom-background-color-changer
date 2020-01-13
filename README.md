@@ -1,5 +1,5 @@
 # Google-classroom-background-color-changer
-## Instructions!
+### Instructions!
 
 ##### First,
 Go to google classroom,
@@ -22,7 +22,7 @@ If you refresh the page, it will not change colors!
 
 ----------------------------------------------------
 
-##### Extras,
+#### Extras,
 I would recommend pining the tab,
 If you don't know how to do that, **right click** on the tab press **pin**
 
@@ -35,7 +35,7 @@ document.querySelector("body").style.backgroundColor = "coloryouwant";
 
 ---------------------------------------------------
 
-##### Questions
+#### Questions
 
 "Can I put a image?",
 
