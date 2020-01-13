@@ -2,10 +2,10 @@
   "name": "Google Classroom background color change",
   "author": {
     "name": "Preston Allred",
-    "email": "123097@usd230.org",
+    "email": ["123097@usd230.org", "sallypreston12@gmail.com"],
     "url": "Comming soon!"
   },
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "main": "src/main.js",
+  "description": "A very simple JavaScript program to change the background color of google classroom",
+  "main": "main.js",
 }
