@@ -26,7 +26,9 @@ If you want to just change the background color to one color, just go to the con
 ```javascript
 document.querySelector("body").style.backgroundColor = "coloryouwant"; 
 ```
-MUST BE A CSS COLOR! (Google it if you don't know what it is)
+**MUST BE A CSS COLOR!** (Google it if you don't know what it is)
+
+
 Feel free to shair this with anyone!
 Just don't say clam it as your own
 
