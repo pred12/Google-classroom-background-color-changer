@@ -15,10 +15,12 @@ then past it in the console,
 Your done!
 If you have any issues or you need me to explane it some more, please email me at (123097@usd230.org) Name the subject "Background-Color:Error" or go to [here](https://github.com/pred12/Google-classroom-background-color-changer/issues) and make a new issue
 
+--------------------------------------------------
 
 ### IMPORTANT!
 If you refresh the page, it will not change colors!
 
+----------------------------------------------------
 
 ##### Extras,
 I would recommend pining the tab,
@@ -31,6 +33,7 @@ document.querySelector("body").style.backgroundColor = "coloryouwant";
 **MUST BE A CSS COLOR!** (Google it if you don't know what it is)
 [or just go click on this](http://www.colors.commutercreative.com/grid/)
 
+---------------------------------------------------
 
 ##### Questions
 
@@ -68,6 +71,7 @@ Please don't email me or make a new issue saying,
 
 3: Sorry unless you email me and I have the time, I can't help you I am willing to do it but I have a life so, I will get to it when I can!
 
+-----------------------------------------------------------------------------
 
 Feel free to shair this with anyone!
 Just don't say clam it as your own
