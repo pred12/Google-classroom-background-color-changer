@@ -2,7 +2,6 @@
 ## Instructions!
 ##### First,
 Go to google classroom,
-**Then click on one of your classes** *(It will not be resticted to that class)*
 right click and go to inspect element,
 they navagate to the "**console tab**" Right by "**Element**," click on "**console**."
 
@@ -24,5 +23,6 @@ I would recommend pining the tab,
 If you don't know how to do that, **right click** on the tab press **pin**
 
 Feel free to shair this with anyone!
+Just don't say clam it as your own
 
 ###### By Preston Allred
