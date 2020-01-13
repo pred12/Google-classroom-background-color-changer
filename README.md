@@ -51,11 +51,21 @@ Please don't email me or make a new issue saying,
 
 
 1: "Some thing don't get changed", 
-2: "Some things get changes that should not be", 
+
+
+2: "Some things get changes that should not be",
+
+
 3: "I want X colored or not colored",
 
+
+
 1: Some things that should be changed are not, I am working on a way to get that to change.
+
+
 2: ^^
+
+
 3: Sorry unless you email me and I have the time, I can't help you I am willing to do it but I have a life so, I will get to it when I can!
 
 
