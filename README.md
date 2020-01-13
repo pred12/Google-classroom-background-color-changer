@@ -22,6 +22,11 @@ If you refresh the page, it will not change colors!
 I would recommend pining the tab,
 If you don't know how to do that, **right click** on the tab press **pin**
 
+If you want to just change the background color to one color, just go to the console and put this, 
+```javascript
+document.querySelector("body").style.backgroundColor = "coloryouwant"; 
+```
+MUST BE A CSS COLOR! (Google it if you don't know what it is)
 Feel free to shair this with anyone!
 Just don't say clam it as your own
 
