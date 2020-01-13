@@ -16,8 +16,11 @@ Your done!
 If you have any issues please email me at (123097@usd230.org) 
 Name the subject "Background-Color:Error"
 
+### IMPORTANT!
+If you refresh the page, this will not save! 
+
 ##### Extras,
-If you refresh the page, this will not save! I would recommend pining the tab,
+I would recommend pining the tab,
 If you don't know how to do that, **right click** on the tab press **pin**
 
 ###### By Preston Allred
