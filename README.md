@@ -16,7 +16,7 @@ If you have any issues or you need me to explane it some more, please email me a
 Name the subject "Background-Color:Error"
 
 ### IMPORTANT!
-If you refresh the page, this will not save! 
+If you refresh the page, it will not change colors!
 
 ##### Extras,
 I would recommend pining the tab,
