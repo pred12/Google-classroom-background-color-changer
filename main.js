@@ -1,4 +1,4 @@
-//Just hit Command/Ctrl + A this will not effect it
+//Don't hit command/ctrl A click and drag/hilight all of it or else github will put a lot of extra stuff
 //If you want more more/less colors or more/less time between colors please email me! (123097@usd230.org) and put the subject-
 //as "Background-Color:Edit" thanks
 
