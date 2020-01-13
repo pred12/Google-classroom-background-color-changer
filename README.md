@@ -12,7 +12,7 @@ then past it in the console,
 **Hit enter/return**
 
 Your done!
-If you have any issues or you need me to explane it some more, please email me at (123097@usd230.org) 
+If you have any issues or you need me to explane it some more, please email me at (123097@usd230.org) or go to [here](https://github.com/pred12/Google-classroom-background-color-changer/issues) 
 Name the subject "Background-Color:Error"
 
 ### IMPORTANT!
