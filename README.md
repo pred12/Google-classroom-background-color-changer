@@ -29,6 +29,7 @@ If you want to just change the background color to one color, just go to the con
 document.querySelector("body").style.backgroundColor = "coloryouwant"; 
 ```
 **MUST BE A CSS COLOR!** (Google it if you don't know what it is)
+[or just go click on this](http://www.colors.commutercreative.com/grid/)
 
 
 ##### Questions
