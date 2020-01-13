@@ -13,5 +13,7 @@ then past it in the console,
 **Hit enter/return**
 
 Your done!
+If you have any issues please email me at (123097@usd230.org) 
+Name the subject "Background-Color:Error"
 
 ###### By Preston Allred
