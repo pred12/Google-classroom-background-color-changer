@@ -58,7 +58,7 @@ Please don't email me or make a new issue saying,
 
 3: "I want X colored or not colored",
 
-
+------------------------------------------------------------------------------------------
 
 1: Some things that should be changed are not, I am working on a way to get that to change.
 
