@@ -39,11 +39,13 @@ yes you can but it is really hard to get the image throught inspect element or t
 I have tried and still am so maybe one day!
 
 
+
 "I get an error that says 'color is not defined' (or somthing like that)",
 
 That mean you have aready copy pasted the code, (or the color varable) two thing to do,
   * refresh the page and past all the code again
   * Delete the color varable out before you push enter 
+
 
 
 Feel free to shair this with anyone!
