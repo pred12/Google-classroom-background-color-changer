@@ -1,5 +1,5 @@
 # Google-classroom-background-color-changer
-### Instructions!
+#### Instructions!
 
 ##### First,
 Go to google classroom,
@@ -17,7 +17,7 @@ If you have any issues or you need me to explane it some more, please email me a
 
 --------------------------------------------------
 
-### IMPORTANT!
+#### IMPORTANT!
 If you refresh the page, it will not change colors!
 
 ----------------------------------------------------
