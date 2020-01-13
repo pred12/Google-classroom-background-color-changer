@@ -1,0 +1,11 @@
+{
+  "name": "Google Classroom background color change",
+  "author": {
+    "name": "Preston Allred",
+    "email": "123097@usd230.org",
+    "url": "Comming soon!"
+  }
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "main": "src/main.js",
+}
