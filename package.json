@@ -5,7 +5,7 @@
     "email": ["123097@usd230.org", "sallypreston12@gmail.com"],
     "url": "Comming soon!"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very simple JavaScript program to change the background color of google classroom",
   "main": "main.js",
 }
