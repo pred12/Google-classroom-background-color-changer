@@ -41,10 +41,10 @@ I have tried and still am so maybe one day!
 
 
 
-"I get an error that says 'color is not defined' (or somthing like that)",
+"I get an error that says 'color is aready defined' (or somthing like that)",
 
 That mean you have aready copy pasted the code, (or the color varable) two thing to do,
-  * refresh the page and past all the code again
+  * refresh the page and past all the code again (with the color varable)
   * Delete the color varable out before you push enter 
 
 
