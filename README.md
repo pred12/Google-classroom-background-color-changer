@@ -23,4 +23,6 @@ If you refresh the page, this will not save!
 I would recommend pining the tab,
 If you don't know how to do that, **right click** on the tab press **pin**
 
+Feel free to shair this with anyone!
+
 ###### By Preston Allred
