@@ -1,5 +1,8 @@
 //Just hit Command/Ctrl + A this will not effect it
-//If you want more more/less colors or more/less time between colors please email me! (123097@usd230.org)
+//If you want more more/less colors or more/less time between colors please email me! (123097@usd230.org) and put the subject-
+//as "Background-Color" thanks
+
+
 const color = [
   "AliceBlue",
   "AntiqueWhite",
