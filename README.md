@@ -46,7 +46,17 @@ I have tried and still am so maybe one day!
 That mean you have aready copy pasted the code, (or the color varable) two thing to do,
   * refresh the page and past all the code again (with the color varable)
   * Delete the color varable out before you push enter 
+  
+Please don't email me or make a new issue saying,
 
+
+1: "Some thing don't get changed", 
+2: "Some things get changes that should not be", 
+3: "I want X colored or not colored",
+
+1: Some things that should be changed are not, I am working on a way to get that to change.
+2: ^^
+3: Sorry unless you email me and I have the time, I can't help you I am willing to do it but I have a life so, I will get to it when I can!
 
 
 Feel free to shair this with anyone!
