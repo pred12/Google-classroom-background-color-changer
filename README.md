@@ -3,7 +3,7 @@
 
 ##### First,
 Go to google classroom,
-right click and go to inspect element,
+**right click** and go to inspect element,
 they navagate to the "**console tab**" Right by "**Element**," click on "**console**."
 
 ##### Then,
