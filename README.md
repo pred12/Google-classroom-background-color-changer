@@ -33,6 +33,7 @@ document.querySelector("body").style.backgroundColor = "coloryouwant";
 **MUST BE A CSS COLOR!** (Google it if you don't know what it is)
 [or just go click on this](http://www.colors.commutercreative.com/grid/)
 
+
 ---------------------------------------------------
 
 #### Questions
@@ -70,6 +71,7 @@ Please don't email me or make a new issue saying,
 
 
 3: Sorry unless you email me and I have the time, I can't help you I am willing to do it but I have a life so, I will get to it when I can!
+
 
 -----------------------------------------------------------------------------
 
