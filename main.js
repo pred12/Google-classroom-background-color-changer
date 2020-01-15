@@ -19,7 +19,7 @@ const randomColor = true; //if you want the colors to go in order or be random t
 //don't change anything below unless you know what you are doing
 var i = 0;
 async function change(){
-  await () => {if(i === color.length){
+  await function(){if(i === color.length){
     //sets it to 0
     i = 0;
   }};
