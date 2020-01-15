@@ -18,18 +18,17 @@ const randomColor = true; //if you want the colors to go in order or be random t
 
 //don't change anything below unless you know what you are doing
 var i = 0;
-function change(){
+async function change(){
+  await () => {if(i === color.length){
+    //sets it to 0
+    i = 0;
+  }};
   if(randomColor){
      document.querySelector("body").style.backgroundColor = color[Math.floor(Math.random() * color.length)];
   } else{
-    document.querySelector("body").style.backgroundColor = color[i];
+    document.querySelector("body").style.backgroundColor = color[i+=1];
     //this is if 'i' is greater than the length of color
-    if(i === color.length){
-      //sets it to -1
-      i = -1;
-    }
-    //adds 1 to i so next time it will do the next color
-    i++
+    
   } 
 }
 //Starts the color changing
