@@ -10,7 +10,7 @@ to change the color  ["Color1", "color2"]; use normal colors that are well knowe
 !!!
 */
 
-//start copying the stuff below (click and drag/highlight
+//start copying the stuff below (click and drag/highlight)
 
 const color = ["AliceBlue","AntiqueWhite","Aqua","Aquamarine","Azure","Beige", "Bisque", "Black", "BlanchedAlmond","Blue","BlueViolet","Brown","BurlyWood","Navy","OldLace","Olive","OliveDrab","Orange","PeachPuff","Peru", "Pink","Plum","PowderBlue","Purple","RebeccaPurple","Sienna","Silver","SkyBlue","SlateBlue", "SlateGray","SlateGrey","Snow"];
 const time = 2000 //in milliseconds
@@ -35,7 +35,6 @@ async function change(){
   } 
 }
 //Starts the color changing
-setInterval(change, time);
 
 //stop copying stuff
 
