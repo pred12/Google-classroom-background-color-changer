@@ -1,10 +1,10 @@
-const color = ["AliceBlue","AntiqueWhite","Aqua","Aquamarine","Azure","Beige", "Bisque", "Black", "BlanchedAlmond","Blue","BlueViolet","Brown","BurlyWood","Navy","OldLace","Olive","OliveDrab","Orange","PeachPuff","Peru", "Pink","Plum","PowderBlue","Purple","RebeccaPurple","Sienna","Silver","SkyBlue","SlateBlue", "SlateGray","SlateGrey","Snow"];
-const time = 2000 //in milliseconds
-const randomColor = true; //if you want the colors to go in order or be random true for random false for not random
+let color = ["AliceBlue","AntiqueWhite","Aqua","Aquamarine","Azure","Beige", "Bisque", "Black", "BlanchedAlmond","Blue","BlueViolet","Brown","BurlyWood","Navy","OldLace","Olive","OliveDrab","Orange","PeachPuff","Peru", "Pink","Plum","PowderBlue","Purple","RebeccaPurple","Sienna","Silver","SkyBlue","SlateBlue", "SlateGray","SlateGrey","Snow"];
+let time = 2000 //in milliseconds
+let randomColor = true; //if you want the colors to go in order or be random true for random false for not random
 
 //don't change anything below unless you know what you are doing
-var i = 0;
-var colorRN = Math.floor(Math.random() * color.length);
+let i = 0;
+let colorRN = Math.floor(Math.random() * color.length);
 async function change(){
   await function(){
     if(i === color.length){
@@ -19,4 +19,5 @@ async function change(){
     i++;
   } 
 }
+setInterval(change, time);
 //By Preston Allred
