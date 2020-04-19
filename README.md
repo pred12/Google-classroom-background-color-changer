@@ -18,7 +18,7 @@ If you have any issues or you need me to explane it some more, please email me a
 --------------------------------------------------
 
 #### IMPORTANT!
-If you refresh or close the page, it will not change colors!
+If you refresh or close the page, you must re-past the code.
 
 ----------------------------------------------------
 
