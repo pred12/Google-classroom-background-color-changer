@@ -1,4 +1,5 @@
 # Google-classroom-background-color-changer
+*I made this for people in my school who wanted the background color of google classroom to be changed*
 #### Instructions!
 
 ##### First,
